@@ -1,3 +1,15 @@
+/*
+3
+M101 Paracetamol 50 2027
+3
+M102 Aspirin 40 2026
+1
+2
+M101 60
+1
+4
+*/
+
 using System;
 using System.Collections.Generic;
 
@@ -166,4 +178,5 @@ class Program
         }
     }
     }
+
 }
